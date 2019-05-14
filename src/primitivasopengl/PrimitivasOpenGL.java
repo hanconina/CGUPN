@@ -16,6 +16,9 @@ public class PrimitivasOpenGL {
      */
     public static void main(String[] args) {
         System.out.println("Codigo JOGL");
+        for (int i=0;i<10;i++){
+            
+        }
         // TODO code application logic here
     }
     
